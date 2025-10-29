@@ -24,7 +24,6 @@ Bu proje ek bir kütüphane gerektirmez (yalnızca Python’un standart kütüph
 Python 3.6+ önerilir.
 
 ### 2️⃣ Çalıştırma
-```bash
 python parola_uretici.py
 
 3️⃣ Adımlar
