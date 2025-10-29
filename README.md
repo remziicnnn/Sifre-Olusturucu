@@ -28,15 +28,11 @@ python parola_uretici.py
 
 ### 3️⃣ Adımlar
 
-Program sizden parola uzunluğunu ister.
-
-Kaç adet parola üretileceğini girersiniz (varsayılan: 3).
-
-Üretilen parolalar listelenir.
-
-Arasından birini seçerseniz, program seçilen parolayı tarih bilgisiyle birlikte secili_parolalar.txt dosyasına kaydeder.
-
-Seçmezseniz, yeni parolalar önerilir.
+- Program sizden parola uzunluğunu ister.
+- Kaç adet parola üretileceğini girersiniz (varsayılan: 3).
+- Üretilen parolalar listelenir.
+- Arasından birini seçerseniz, program seçilen parolayı tarih bilgisiyle birlikte secili_parolalar.txt dosyasına kaydeder.
+- Seçmezseniz, yeni parolalar önerilir.
 
 📄 Kayıt Formatı
 
@@ -44,7 +40,7 @@ Seçilen her parola secili_parolalar.txt dosyasına şu formatta eklenir:
 
 2025-10-29 14:42:03 - Seçtiğiniz şifre: TzLfdWbq2K7shn...
 
-🧠 Örnek Terminal Çıktısı
+### 🧠 Örnek Terminal Çıktısı
 🔑 Parola Üreticiye Hoş Geldiniz! (Python sürümü)
 
 Lütfen üretilecek parolanın uzunluğunu girin: 12
