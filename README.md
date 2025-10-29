@@ -26,7 +26,7 @@ Python 3.6+ önerilir.
 ### 2️⃣ Çalıştırma
 python parola_uretici.py
 
-3️⃣ Adımlar
+### 3️⃣ Adımlar
 
 Program sizden parola uzunluğunu ister.
 
@@ -56,6 +56,6 @@ Oluşturulan parolalar:
 3) d2VlbmVsdmVu
 
 Aralarında seçtiğiniz var mı? (e/h): e
-Seçtiğiniz şifreyi numara ile mi (örnek: 2) yoksa tam metin olarak mı gireceksiniz? (n/m): n
+Seçtiğiniz şifreyi numara ile mi (örnek: 2) yoksa tam metin olarak mı gireceksiniz? (n/m): n  
 Lütfen seçtiğiniz parolanın numarasını girin: 2
 ✅ Seçilen parola 'secili_parolalar.txt' dosyasına kaydedildi.
